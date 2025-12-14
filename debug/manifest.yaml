@@ -10,3 +10,4 @@ spec:
   containers:
   - name: debug
     image: santhiram/debug:v1
+    imagePullPolicy: Always
